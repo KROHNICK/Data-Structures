@@ -52,4 +52,4 @@ Answer the following questions for each of the data structures you implemented a
 
     a. Compare the runtime of the doubly linked list's `delete` method with the worst-case runtime of the JS `Array.splice` method. Which method generally performs better?
 
-    the delete runs faster than the array, difference changes as the size gets bigger
+    the delete runs faster than the array, difference changes as the size gets bigger.
